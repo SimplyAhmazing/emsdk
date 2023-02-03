@@ -26,6 +26,7 @@ filegroup(
         "bin/clang++{bin_extension}",
         "bin/llc{bin_extension}",
         "bin/llvm-ar{bin_extension}",
+        "bin/llvm-nm{bin_extension}",
         ":includes",
     ],
 )
